@@ -200,6 +200,7 @@
     "webpack-merge": "^4.1.2"
   },
   "dependencies": {
+    "ajv": "^6.0.0",
     "devtron": "^1.4.0",
     "electron-debug": "^1.5.0",
     "font-awesome": "^4.7.0",
@@ -211,9 +212,18 @@
     "react-router": "^4.2.0",
     "react-router-dom": "^4.2.2",
     "react-router-redux": "^5.0.0-alpha.6",
+    "react-stockcharts": "^0.7.7",
     "redux": "^4.0.0",
     "redux-thunk": "^2.2.0",
-    "source-map-support": "^0.5.6"
+    "source-map-support": "^0.5.6",
+    "core-js": "^2.5.7",
+    "d3-dsv": "^1.0.8",
+    "d3-format": "^1.2.1",
+    "d3-scale": "^1.0.7",
+    "d3-time-format": "^2.1.1",
+    "prop-types": "^15.6.0",
+    "react-bootstrap": "^0.31.5",
+    "shortid": "^2.2.8"
   },
   "devEngines": {
     "node": ">=7.x",

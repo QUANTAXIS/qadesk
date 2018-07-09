@@ -12,8 +12,8 @@ export default class Home extends Component<Props> {
     return (
       <div>
         <div className={styles.container} data-tid="container">
-          <h2>QUANTAXIS</h2>
-          <Link to="/counter"> Quantitative Financial Framework</Link>
+          <h2 >QUANTAXIS</h2>
+          <Link to="/chart"> Quantitative Financial Framework</Link>
         </div>
       </div>
     );

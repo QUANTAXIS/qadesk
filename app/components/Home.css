@@ -7,8 +7,10 @@
 
 .container h2 {
   font-size: 5rem;
+  color: darkgray;
 }
 
 .container a {
   font-size: 1.4rem;
+  color: darkgray;
 }
